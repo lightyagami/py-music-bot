@@ -1,0 +1,8 @@
+autopep8
+toml 
+opus-api
+opuslib
+youtube-dl
+discord.py
+pynacl
+ffmpeg
