@@ -7,7 +7,7 @@ from . import config
 
 cfg = config.load_config()
 
-bot = commands.Bot(command_prefix=cfg["prefix"])
+bot = commands.Bot(command_prefix=cfg["prefix",""])
 
 
 @bot.event
