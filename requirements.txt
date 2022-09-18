@@ -3,6 +3,6 @@ toml
 opus-api
 opuslib
 youtube-dl
-discord.py
+discord.py==1.6.0
 pynacl
 ffmpeg
